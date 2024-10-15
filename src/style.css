@@ -60,7 +60,7 @@ body {
     padding: 10px; /* Espacement interne du bouton */
     border: none;
     border-radius: 0 20px 20px 0; /* Coins arrondis à droite */
-    background-color: #1a1a1a; /* Couleur du bouton */
+    background-color: #444444; /* Couleur du bouton */
     color: white;
     font-size: 16px; /* Taille de la police du bouton */
     cursor: pointer;
